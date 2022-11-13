@@ -19,10 +19,15 @@ Actions:
 7. Walking.
 
 
-## Dataset - examples
+## Dataset - examples
 
-![](examples.png)
+|||||
+|-|-|-|-|
+|![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Interacting%20with%20computer/action0022.jpg)| ![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Photographing/action0570.jpg)| ![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Playing%20Instrument/action0440.jpg)| ![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Riding%20Bike/action0322.jpg)|
+|Interacting with computer |Photographing |Playing Instrument |Riding Bike |
+|![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Riding%20Horse/action0097.jpg)| ![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Running/action0782.jpg)| ![](https://github.com/GenevieveMasioni/human-action-recognition/blob/main/dataset/TrainSet/Walking/action0845.jpg)| |
+|Riding Horse |Running |Walking | |
 
-## Model architecture
+## Model architecture
 
 ![](model_architecture.png)
